@@ -1,0 +1,22 @@
+unit-nova-mysql-router-0: 02:04:19 WARNING juju.worker.dependency "migration-fortress" manifold worker started at 2021-01-14 02:04:19.077586842 +0000 UTC
+unit-nova-mysql-router-0: 02:04:19 WARNING juju.worker.dependency "migration-fortress" manifold worker started at 2021-01-14 02:04:19.077586842 +0000 UTC
+unit-nova-mysql-router-0: 02:04:19 WARNING juju.worker.dependency "migration-fortress" manifold worker started at 2021-01-14 02:04:19.077586842 +0000 UTC
+unit-nova-mysql-router-0: 02:04:19 WARNING juju.worker.dependency "migration-fortress" manfold worker started at 2021-01-14 02:04:19.077586842 +0000 UTC
+unit-nova-mysql-router-0: 02:04:19 DEBUG juju.worker.dependency "migration-fortress" manifold worker started at 2021-01-14 02:04:19.077586842 +0000 UTC
+unit-nova-mysql-router-0: 02:04:19 DEBUG juju.worker.dependency "migration-fortress" manifold worker started at 2021-01-14 02:04:19.077586842 +0000 UTC
+unit-neutron-api-0: 02:03:54 WARNING unit.neutron-api/0.juju-log database relation is missing and must be related for functionality. 
+unit-neutron-api-0: 02:03:54 WARNING unit.neutron-api/0.juju-log messaging relation is missing and must be related for functionality. 
+unit-neutron-api-0: 02:03:54 WARNING unit.neutron-api/0.juju-log identity relation is missing and must be related for functionality. 
+unit-neutron-api-0: 02:03:54 WARNING unit.neutron-api/0.juju-log neutron-plugin relation is missing and must be related for functionality. 
+unit-ovn-central-0: 02:03:56 WARNING unit.ovn-central/0.juju-log Package openstack-release has no installation candidate.
+unit-nova-cloud-controller-0: 01:59:07 DEBUG juju.api RPC connection died
+unit-nova-cloud-controller-0: 01:59:07 DEBUG juju.worker.dependency "api-caller" manifold worker stopped: restart immediately
+unit-nova-cloud-controller-0: 01:59:08 INFO juju.worker.migrationminion migration phase is now: NONE
+unit-rabbitmq-server-0: 01:59:40 DEBUG juju.worker.dependency "upgrade-steps-runner" manifold worker completed successfully
+unit-rabbitmq-server-0: 01:59:40 INFO juju.worker.upgrader abort check blocked until version event received
+unit-rabbitmq-server-0: 01:59:40 INFO juju.worker.upgrader unblocking abort check
+unit-rabbitmq-server-0: 01:59:40 INFO juju.worker.upgrader desired agent binary version: 2.8.1
+unit-placement-mysql-router-0: 02:01:01 ERROR unit.placement-mysql-router/0.juju-log Unable to find implementation for relation: requires of juju-info
+unit-placement-mysql-router-0: 02:01:13 ERROR unit.placement-mysql-router/0.juju-log Unable to find implementation for relation: requires of juju-info
+unit-placement-mysql-router-0: 02:01:14 ERROR unit.placement-mysql-router/0.juju-log Unable to find implementation for relation: requires of juju-info
+unit-placement-mysql-router-0: 02:01:15 ERROR unit.placement-mysql-router/0.juju-log Unable to find implementation for relation: requires of juju-info
